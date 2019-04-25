@@ -1,2 +1,2 @@
-# c-Essentials-
+# c-Essentials
 c++ Essential Training notes
